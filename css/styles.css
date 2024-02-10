@@ -412,6 +412,7 @@ ul {
 .footer-social-media {
     display: flex;
     gap: 16px;
+    padding-top: 16px;
  }
 .footer-social-media-item {
     width: 40px;
