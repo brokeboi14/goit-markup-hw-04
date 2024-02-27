@@ -13,6 +13,10 @@ img {
     max-width: 100%;
     height: auto;
 }
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 ul {
     list-style: none;
     padding: 0;
@@ -20,7 +24,7 @@ ul {
 }
 .container {
     width: 1158px;
-    padding: 15px;
+    padding: 0 15px;
     margin: 0 auto;
 }
 .header-container {
@@ -412,7 +416,6 @@ ul {
 .footer-social-media {
     display: flex;
     gap: 16px;
-    padding-top: 16px;
  }
 .footer-social-media-item {
     width: 40px;
