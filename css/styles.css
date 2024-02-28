@@ -197,7 +197,7 @@ ul {
     gap: 24px;
     justify-content: space-between;
 }
-.feature-icon-item {
+.feature-icon-container {
     border: 1px solid #8e8f99;
         border-radius: 4px;
         width: 264px;
@@ -273,6 +273,7 @@ ul {
 .team-social-media {
     display: flex;
     gap: 24px;
+    justify-content: center;
 }
 .team-social-media-item {
     width: 40px;
